@@ -1,0 +1,5 @@
+I really enjoyed working on this assignment and learning more about how complex systems can be modeled using C++. 
+
+The assignment helped me improve my skills in parsing input data, managing resources safely with move semantics, and coordinating multiple interacting classes. I also appreciated the challenge of debugging the flow of customer orders and ensuring correct output formatting.
+
+Overall, this project deepened my understanding of C++ and gave me practical experience that I find valuable for my growth as a programmer. I enjoyed the process of breaking down the problem and incrementally building the solution, guided by the provided testers.
